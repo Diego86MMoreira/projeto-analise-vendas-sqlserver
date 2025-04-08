@@ -13,18 +13,16 @@ A estrutura segue o padrão de **modelo estrela (Star Schema)**, com a tabela fa
 - 🧑‍💼 `dim_vendedor`
 - 🗓 `dim_tempo`
 
-<p align="center">
-  <img src="./modelo_estrela_vendas.png" alt="Modelo Estrela" width="500"/>
-</p>
+👉 [Clique aqui para visualizar o modelo estrela completo](./modelo_estrela_vendas.png)
 
 ---
 
 ## 🛠 Tecnologias Utilizadas
 
-- SQL Server
-- Linguagem SQL (DDL e DML)
-- Power BI (opcional para futuras análises visuais)
-- Git e GitHub
+- SQL Server  
+- Linguagem SQL (DDL e DML)  
+- Power BI (opcional para futuras análises visuais)  
+- Git e GitHub  
 
 ---
 
