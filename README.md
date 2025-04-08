@@ -54,10 +54,10 @@ O modelo utilizado segue a arquitetura em estrela (Star Schema), com a tabela fa
 ## 👤 Autor
 
 **Diego Mascarenhas Moreira** 
-📱 (11) 9 8807-2303  
-📧 diego86mmoreira@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/diegommoreira-analista-dados)
-🧰 [Portfólio de Projetos](https://sway.cloud.microsoft/MBGeFrALZAMnPnaV)
+### 📱 (11) 9 8807-2303  
+### 📧 diego86mmoreira@gmail.com  
+### 🔗 [LinkedIn](https://www.linkedin.com/in/diegommoreira-analista-dados)
+### 🧰 [Portfólio de Projetos](https://sway.cloud.microsoft/MBGeFrALZAMnPnaV)
 
 ---
 
